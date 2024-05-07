@@ -1,0 +1,12 @@
+p
+{
+    color:rgb(10, 83, 230);
+    border: 1px solid black;
+    height: 50px;
+    background-color: aquamarine;
+
+}
+
+div{
+    display:flex;
+}
