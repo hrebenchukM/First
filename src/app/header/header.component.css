@@ -1,12 +1,20 @@
-p
-{
-    color:rgb(10, 83, 230);
-    border: 1px solid black;
-    height: 50px;
-    background-color: aquamarine;
-
-}
-
-div{
-    display:flex;
-}
+.flex-container {
+    display: flex;
+    background-color: rgb(250, 81, 81);
+    justify-content: space-between; 
+    align-items: flex-start;
+  }
+  
+  .logo {
+    margin: 10px;
+    padding: 20px;
+  }
+  
+  .tasks {
+    margin: 10px;
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+  }
+  
+ 
